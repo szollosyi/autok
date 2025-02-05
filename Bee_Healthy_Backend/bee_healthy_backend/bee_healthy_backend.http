@@ -1,0 +1,6 @@
+@bee_healthy_backend_HostAddress = http://localhost:5047
+
+GET {{bee_healthy_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
